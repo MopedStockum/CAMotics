@@ -59,7 +59,6 @@ build.ninja
 # Docs
 *.aux
 *.log
-*.pdf
 *.toc
 
 
