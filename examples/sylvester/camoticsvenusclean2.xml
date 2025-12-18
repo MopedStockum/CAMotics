@@ -1,0 +1,20 @@
+<camotics>
+  <!-- Note, all values are in mm regardless of 'units' option. -->
+  <!-- NC Files -->
+  <nc-files>
+    VenusCenteredscaled10Unrolledat7simplifiedcleanup2.tpl
+  </nc-files>
+
+  <!-- Renderer -->
+  <resolution v='0.205754'/>
+  <resolution-mode v='HIGH'/>
+
+  <!-- Workpiece -->
+  <automatic-workpiece v='false'/>
+  <workpiece-max v='(21.112,16.3131,15)'/>
+  <workpiece-min v='(-21.34,-18.09,-14.8206)'/>
+
+  <tool_table>
+    <tool length='2' number='1' radius='1' shape='SPHEROID' units='MM'/>
+  </tool_table>
+</camotics>

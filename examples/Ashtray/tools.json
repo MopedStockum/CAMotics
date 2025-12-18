@@ -1,0 +1,9 @@
+{
+  "1": {
+    "units": "MM",
+    "shape": "SPHEROID",
+    "length": 2,
+    "diameter": 2,
+    "description": "2erBall"
+  }
+}

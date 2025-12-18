@@ -1,0 +1,19 @@
+<camotics>
+  <!-- Note, all values are in mm regardless of 'units' option. -->
+  <!-- NC Files -->
+  <nc-files>
+    sylvesttest3.tpl
+  </nc-files>
+
+  <!-- Renderer -->
+  <resolution v='0.133885'/>
+
+  <!-- Workpiece -->
+  <automatic-workpiece v='false'/>
+  <workpiece-max v='(5.095,2.5211,6.9954)'/>
+  <workpiece-min v='(-3.77,-2.52,-6.43)'/>
+
+  <tool_table>
+    <tool length='2' number='1' radius='1' shape='SPHEROID' units='MM'/>
+  </tool_table>
+</camotics>
