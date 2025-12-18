@@ -39,8 +39,6 @@ moc_*.cc
 *~
 
 # Programs
-/camotics
-/tplang
 /gcodetool
 /camprobe
 /camsim
@@ -64,6 +62,5 @@ build.ninja
 *.pdf
 *.toc
 
-/examples
 
 .vscode
